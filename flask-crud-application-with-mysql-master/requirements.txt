@@ -2,7 +2,7 @@ alembic==0.9.9
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 backports.shutil-which==3.5.1
-bleach==2.1.4
+bleach==3.1.1
 blinker==1.4
 certifi==2018.8.24
 chardet==3.0.4
